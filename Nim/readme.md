@@ -9,4 +9,4 @@ The key formula for Q-learning is below. Every time we are in a state s and take
 Q(s, a) <- Q(s, a) + alpha * (new value estimate - old value estimate)
 ```
 
-Project functionality can be seen here :https://youtu.be/cBTxLnl3g0A
+Project functionality can be seen here :[Youtube link](https://youtu.be/cBTxLnl3g0A)
